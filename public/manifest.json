@@ -1,0 +1,16 @@
+{
+  "name": "Diya Monopoly Board Game",
+  "short_name": "Diya Monopoly",
+  "description": "A Deepavali Festival Adventure board game",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a0508",
+  "theme_color": "#3a0d16",
+  "orientation": "portrait",
+  "permissions": ["camera"],
+  "features": {
+    "camera": {
+      "description": "Camera is used to scan team QR codes at festival stations"
+    }
+  }
+}
